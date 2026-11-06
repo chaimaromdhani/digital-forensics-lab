@@ -1,8 +1,8 @@
-DFIR : investigation d'une compromission par phishing
+# DFIR : investigation d'une compromission par phishing
 
 Simulation d'une attaque par phishing suivie d'une exfiltration de données, puis investigation complète dans un laboratoire isolé. Projet individuel (mini-projet ING-5 SSIR, TEK-UP).
 
-Scénario
+## Scénario
 
 Un employé exécute une fausse facture (Facture_Impayee_Octobre2026.exe). L'attaquant prend le contrôle du poste, explore la machine, installe une persistance et exfiltre des fichiers.
 
